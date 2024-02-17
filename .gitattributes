@@ -1,1 +1,1 @@
-.gitattributes
+*.kotlin linguist-detectable=true
